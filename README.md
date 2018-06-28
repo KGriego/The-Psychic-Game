@@ -1,1 +1,1 @@
-# Word-Guess-Game
+# The-Psychic-Game
